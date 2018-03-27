@@ -1,0 +1,61 @@
+body {
+    background-image: url("https://wallup.net/wp-content/uploads/2016/01/18365-minimalism-artwork-superhero-Superman-Batman-Flash-DC_Comics-silhouette-The_Flash-Wonder_Woman-Green_Lantern-Aquaman-blue_background.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-color: gainsboro;
+    margin: auto;
+    
+    
+}
+
+.jumbotron {
+    color: aliceblue;
+    background-color: rgba(142, 150, 142, 0.623);
+    color:aliceblue;
+    margin-left: auto;
+	font-size: 15px;
+	text-align: center;
+	padding-top: auto;
+	padding-bottom: auto;
+}
+
+#question-container {
+  
+    color:aliceblue;
+    margin-left: auto;
+	font-size: 15px;
+	text-align: center;
+	padding-top: auto;
+	padding-bottom: auto;
+}
+
+
+  
+    
+
+#timer-container {
+    font-size: 25px;
+    font:bold;
+    color: azure;
+    
+    
+
+}
+#scores{
+    font-size: 15px;
+    color: azure;
+    
+}
+
+.btn-group {
+  
+	
+	
+
+	font-size: 25px;
+}
+
+
+.navbar{
+    color: aliceblue;
+}
